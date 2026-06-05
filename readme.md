@@ -1,173 +1,278 @@
+<!--
+  PROFILE SETUP
+  1. Create a public repository named "rithvikaa".
+  2. Add this file as README.md.
+  3. Place the intro PNG at assets/rithvika-intro.png.
+  4. Add snake.yml to .github/workflows/snake.yml.
+-->
+
 <div align="center">
 
-<!-- Replace this title with a custom SVG banner later if desired. -->
-
-# Hi, I'm Rithvika
-
-### Product Designer & Developer from India
-
-<p>
-  I blend thoughtful design, practical engineering, and a growing cybersecurity mindset<br/>
-  to create digital experiences that are useful, intuitive, and built with purpose.
-</p>
-
-<a href="https://www.linkedin.com/in/rithvikaad">
-  <img src="https://img.shields.io/badge/LinkedIn-D8E8FF?style=for-the-badge&logo=linkedin&logoColor=315A7D" alt="LinkedIn"/>
-</a>
-<a href="mailto:rithvika277@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FBE1E8?style=for-the-badge&logo=gmail&logoColor=8A4F5D" alt="Email"/>
-</a>
-<a href="https://github.com/rithvikaa">
-  <img src="https://img.shields.io/badge/GitHub-E7E2F4?style=for-the-badge&logo=github&logoColor=4C4660" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=rithvikaa&label=PROFILE+VIEWS&color=d8b4fe&style=flat-square" alt="Profile views"/>
-
-</div>
-
----
-
-## About Me
-
-```yaml
-name: Rithvika A D
-location: Chennai, India
-education: B.Tech CSE (AI & ML) · SRM Institute · CGPA 9.11
-focus: [Product Design, Software Development, Cybersecurity]
-approach: "Design with empathy. Build with intention. Learn continuously."
-open_to: [Freelance, Collaborations, Internships, Design Opportunities]
-```
-
-- Currently working as a **UX Design Intern at Hexaware Technologies**
-- Experienced in **product design, Java development, REST APIs, and backend systems**
-- Published research in **AI-powered healthcare** and **machine learning**
-- Interested in building meaningful, accessible, and secure digital products
+<img src="./assets/rithvika-intro.png" width="100%" alt="Hi, I'm Rithvika - Product Designer and Developer"/>
 
 <br/>
 
-## Currently Building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Enterprise UX Experiences</h3>
-      <p>Transforming usability insights into wireframes, prototypes, and polished product flows with smoother developer handoffs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Security-Minded Products</h3>
-      <p>Exploring how secure engineering practices can become a natural part of thoughtful, user-centered product design.</p>
-    </td>
-  </tr>
-</table>
-
-## Currently Learning
+### Product Designer · Developer · Cybersecurity Learner
 
 <p>
-  <img src="https://img.shields.io/badge/Network_Security-E0F2FE?style=flat-square&logo=wireshark&logoColor=0369A1" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/Application_Security-FCE7F3?style=flat-square&logo=owasp&logoColor=9D174D" alt="Application Security"/>
-  <img src="https://img.shields.io/badge/Cloud_Security-F3E8FF?style=flat-square&logo=amazonwebservices&logoColor=6B21A8" alt="Cloud Security"/>
-  <img src="https://img.shields.io/badge/Secure_Development-DCFCE7?style=flat-square&logo=securityscorecard&logoColor=166534" alt="Secure Development"/>
+I design thoughtful interfaces and build practical software,<br/>
+turning ideas into digital experiences that feel clear, useful, and human.
 </p>
 
-> Learning cybersecurity concepts with a focus on network security, application security, and secure software development.
+<a href="https://www.linkedin.com/in/rithvikaad">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rithvika277@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-151B23?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rithvika"/>
+</a>
+<a href="https://github.com/rithvikaa">
+  <img src="https://img.shields.io/badge/PORTFOLIO-151B23?style=for-the-badge&logo=github&logoColor=white" alt="GitHub portfolio"/>
+</a>
+
+</div>
+
+<br/>
+
+## 🔗 About Me
+
+**Product Designer and Developer from Chennai, India**, with a B.Tech in Computer Science and Engineering, specializing in AI & ML. I enjoy working where design and engineering meet: understanding real user problems, shaping intuitive product experiences, and building the systems behind them.
+
+My experience spans **UX design, Java development, REST APIs, machine learning, and backend systems**. I am currently expanding my knowledge of cybersecurity, with a focus on creating products that are not only useful and beautiful, but also secure.
+
+### What Drives Me
+
+I care about meaningful digital experiences. Whether I am simplifying an enterprise workflow, prototyping a new interface, or developing an intelligent system, I aim to make technology easier to understand and more effective to use.
+
+<br/>
 
 ---
 
-## Design & Development Toolkit
-
-<h3>Design</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-FBE1E8?style=for-the-badge&logo=figma&logoColor=8A4F5D" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-DDF4F1?style=for-the-badge&logo=canva&logoColor=176B68" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Photoshop-DDEBFF?style=for-the-badge&logo=adobephotoshop&logoColor=315A7D" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Adobe_XD-EEDFF2?style=for-the-badge&logo=adobexd&logoColor=6B456E" alt="Adobe XD"/>
-</p>
-
-<h3>Engineering</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Java-F6E5D5?style=for-the-badge&logo=openjdk&logoColor=8A5A35" alt="Java"/>
-  <img src="https://img.shields.io/badge/FastAPI-DDF4F1?style=for-the-badge&logo=fastapi&logoColor=176B68" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/REST_APIs-E7E2F4?style=for-the-badge&logo=postman&logoColor=4C4660" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/MySQL-D8E8FF?style=for-the-badge&logo=mysql&logoColor=315A7D" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-FBE1E8?style=for-the-badge&logo=git&logoColor=8A4F5D" alt="Git"/>
-  <img src="https://img.shields.io/badge/AWS-FFF0D9?style=for-the-badge&logo=amazonwebservices&logoColor=805B25" alt="AWS"/>
-</p>
-
-<h3>Workflow</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-DDEBFF?style=for-the-badge&logo=visualstudiocode&logoColor=315A7D" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Eclipse-E7E2F4?style=for-the-badge&logo=eclipseide&logoColor=4C4660" alt="Eclipse"/>
-  <img src="https://img.shields.io/badge/Apache_Tomcat-FEF3C7?style=for-the-badge&logo=apachetomcat&logoColor=854D0E" alt="Apache Tomcat"/>
-  <img src="https://img.shields.io/badge/Power_BI-FFF0D9?style=for-the-badge&logo=powerbi&logoColor=805B25" alt="Power BI"/>
-</p>
-
----
-
-## Selected Work
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>Real-Time Arrhythmia Detection</h3>
-      <p>A CNN + LSTM system for real-time PPG monitoring, predicting BPM, HRV, SpO₂, and stress levels through modular FastAPI pipelines.</p>
-      <p><strong>Published:</strong> Wiley / Taylor & Francis</p>
+      <p><strong>AI-Powered Health Monitoring System</strong></p>
       <p>
-        <img src="https://img.shields.io/badge/Deep_Learning-E7E2F4?style=flat-square" alt="Deep Learning"/>
-        <img src="https://img.shields.io/badge/FastAPI-DDF4F1?style=flat-square" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/Healthcare_AI-FBE1E8?style=flat-square" alt="Healthcare AI"/>
+        A real-time PPG signal monitoring system built with a hybrid CNN + LSTM
+        model to predict BPM, HRV, SpO₂, and stress levels.
+      </p>
+      <p><strong>Impact:</strong></p>
+      <ul>
+        <li>Built three modular FastAPI pipelines</li>
+        <li>Combined signal processing and deep learning</li>
+        <li>Published through Wiley / Taylor & Francis</li>
+      </ul>
+      <p>
+        <code>Deep Learning</code> <code>FastAPI</code> <code>Healthcare AI</code>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>AI Wine Quality Evaluation</h3>
-      <p>A classification framework achieving over 95% accuracy through feature engineering and analysis of physicochemical attributes.</p>
-      <p><strong>Published:</strong> IJARSCT</p>
+      <p><strong>Machine Learning Classification Framework</strong></p>
       <p>
-        <img src="https://img.shields.io/badge/Machine_Learning-D8E8FF?style=flat-square" alt="Machine Learning"/>
-        <img src="https://img.shields.io/badge/EDA-FFF0D9?style=flat-square" alt="EDA"/>
-        <img src="https://img.shields.io/badge/Classification-F3E8FF?style=flat-square" alt="Classification"/>
+        A data-driven quality prediction framework trained on physicochemical
+        properties and refined through exploratory analysis.
+      </p>
+      <p><strong>Impact:</strong></p>
+      <ul>
+        <li>Achieved over 95% classification accuracy</li>
+        <li>Analyzed more than ten quality attributes</li>
+        <li>Published in IJARSCT</li>
+      </ul>
+      <p>
+        <code>Machine Learning</code> <code>EDA</code> <code>Classification</code>
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>Smart Airline Booking & Operations Platform</h3>
-      <p>A full-stack Java platform for flight management, administration, ticketing, and CRUD workflows, backed by a normalized relational database.</p>
+      <p><strong>Full-Stack Java Management System</strong></p>
       <p>
-        <img src="https://img.shields.io/badge/Java-F6E5D5?style=flat-square" alt="Java"/>
-        <img src="https://img.shields.io/badge/MySQL-D8E8FF?style=flat-square" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/System_Design-DCFCE7?style=flat-square" alt="System Design"/>
+        A Java platform supporting flight management, administrative controls,
+        ticketing, and CRUD workflows through a normalized relational database.
+      </p>
+      <p><strong>Impact:</strong></p>
+      <ul>
+        <li>Supported five core airline operations</li>
+        <li>Improved average query response time by 30%</li>
+        <li>Designed the database architecture using ER modeling</li>
+      </ul>
+      <p>
+        <code>Java</code> <code>MySQL</code> <code>System Design</code>
       </p>
     </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
-## GitHub Snapshot
+## Tech Stack
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=rithvikaa&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=d8b4fe&icon_color=f9a8d4&text_color=e5e7eb"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=rithvikaa&show_icons=true&hide_border=true&rank_icon=github&bg_color=fffaff&title_color=8b5cf6&icon_color=ec4899&text_color=475569"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rithvikaa&show_icons=true&hide_border=true&rank_icon=github&bg_color=fffaff&title_color=8b5cf6&icon_color=ec4899&text_color=475569" alt="Rithvika's GitHub stats"/>
-  </picture>
-  <img height="165" src="https://streak-stats.demolab.com?user=rithvikaa&hide_border=true&background=FFFAFF&ring=A78BFA&fire=F472B6&currStreakLabel=8B5CF6&sideLabels=64748B&dates=94A3B8&currStreakNum=475569&sideNums=475569" alt="Rithvika's GitHub streak"/>
+
+### Design & Product
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="45" height="45" alt="Canva"/><br/>
+      <sub><b>Canva</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"/><br/>
+      <sub><b>Photoshop</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="45" height="45" alt="Adobe XD"/><br/>
+      <sub><b>Adobe XD</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Development
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" height="45" alt="REST APIs"/><br/>
+      <sub><b>REST APIs</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachetomcat/apachetomcat-original.svg" width="45" height="45" alt="Tomcat"/><br/>
+      <sub><b>Tomcat</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Database, Cloud & Tools
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI"/><br/>
+      <sub><b>Power BI</b></sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
+<br/>
+
+---
+
+## GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithvikaa&layout=compact&hide_border=true&bg_color=fffaff&title_color=8b5cf6&text_color=475569" alt="Rithvika's top languages"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rithvikaa&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rithvikaa&show_icons=true&hide_border=false&bg_color=ffffff&border_color=d0d7de&title_color=0969da&icon_color=0969da&text_color=24292f"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rithvikaa&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Rithvika's GitHub statistics"/>
+</picture>
+
+<img height="170" src="https://streak-stats.demolab.com?user=rithvikaa&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Rithvika's contribution streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rithvikaa&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=false&border_color=30363d" width="100%" alt="Rithvika's contribution activity graph"/>
+
 </div>
+
+<br/>
+
+---
+
+## Currently
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Building</h3>
+      <p>
+        Enterprise product experiences informed by usability testing,
+        thoughtful interaction design, and clear developer handoffs.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Learning</h3>
+      <p>
+        Network security, application security, cloud security, and secure
+        software development principles.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## Beyond Code
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>Product Design</h3>
+      <p>Creating intuitive and accessible digital experiences</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Research</h3>
+      <p>Exploring applied AI through published academic work</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Leadership</h3>
+      <p>Former Vice President and Joint Head of Design</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Community</h3>
+      <p>Organizing events and collaborating across creative teams</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
@@ -177,36 +282,32 @@ open_to: [Freelance, Collaborations, Internships, Design Opportunities]
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rithvikaa/rithvikaa/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rithvikaa/rithvikaa/output/github-contribution-grid-snake.svg"/>
-    <img alt="Rithvika's contribution snake animation" src="https://raw.githubusercontent.com/rithvikaa/rithvikaa/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/rithvikaa/rithvikaa/output/github-contribution-grid-snake.svg" width="100%" alt="Rithvika's contribution snake animation"/>
   </picture>
 </div>
 
+<br/>
+
 ---
 
-## Beyond The Screen
-
-- Former **Vice President** of The Matrix Club
-- Former **Joint Head of Design** at Exadata Club
-- Lead organizer for college cultural events
-- Certified in **Java Programming**, **Machine Learning**, **Cybersecurity**, and **Object-Oriented Design**
-
-<br/>
+## Let's Connect
 
 <div align="center">
 
-### Let's create something meaningful.
+I am open to **freelance projects, collaborations, internships, product design roles,**  
+and opportunities to create meaningful digital experiences.
 
-<p>
-  I'm open to freelance projects, collaborations, internships,<br/>
-  product design opportunities, and interesting conversations.
-</p>
+<br/>
 
+<a href="https://www.linkedin.com/in/rithvikaad">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Rithvika on LinkedIn"/>
+</a>
 <a href="mailto:rithvika277@gmail.com">
-  <img src="https://img.shields.io/badge/Start_a_Conversation-F3E8FF?style=for-the-badge&logo=gmail&logoColor=6B21A8" alt="Start a conversation"/>
+  <img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-151B23?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rithvika"/>
 </a>
 
 <br/><br/>
 
-<sub>Designed with curiosity, clarity, and a soft pastel palette.</sub>
+<img src="https://komarev.com/ghpvc/?username=rithvikaa&label=PROFILE+VIEWS&color=0A66C2&style=flat-square" alt="Profile visitor counter"/>
 
 </div>
