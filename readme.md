@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/rithvika-intro.png" width="100%" alt="Hi, I'm Rithvika - Product Designer and Developer"/>
+<img src="banner.png" width="100%" alt="Hi, I'm Rithvika - Product Designer and Developer"/>
 
 <br/>
 
