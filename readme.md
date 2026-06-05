@@ -1,11 +1,3 @@
-<!--
-  PROFILE SETUP
-  1. Create a public repository named "rithvikaa".
-  2. Add this file as README.md.
-  3. Place the intro PNG at assets/rithvika-intro.png.
-  4. Add snake.yml to .github/workflows/snake.yml.
--->
-
 <div align="center">
 
 <img src="./assets/rithvika-intro.png" width="100%" alt="Hi, I'm Rithvika - Product Designer and Developer"/>
