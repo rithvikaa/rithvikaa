@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rithvika</h1>
+f<h1 align="center">Hi 👋, I'm Rithvika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Ux designs**
